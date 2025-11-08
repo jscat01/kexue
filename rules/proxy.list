@@ -5,4 +5,10 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,raw.githubusercontent.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,youtube.com
-
+DOMAIN-SUFFIX,sharefile.com
+DOMAIN-SUFFIX,exxonmobil.sharefile.com
+DOMAIN-SUFFIX,auth.sharefile.io
+DOMAIN-SUFFIX,exxonmobil.sf-api.com
+DOMAIN-SUFFIX,piletfeed-cdn.sharefile.io
+DOMAIN-SUFFIX,featureflags.sharefile.io
+DOMAIN-SUFFIX,citrix-sharefile-content.customer.pendo.io:443
