@@ -1,0 +1,11 @@
+# 内容：OpenAi Bard anthropic
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,stripchat
+# DOMAIN-KEYWORD,Claude
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,stripchat.com
+
