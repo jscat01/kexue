@@ -1,3 +1,8 @@
 #走代理
 DOMAIN-SUFFIX,*.google.com
 DOMAIN-SUFFIX,*.yutube.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,youtube.com
+
