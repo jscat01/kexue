@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,exxonmobil.sf-api.com
 DOMAIN-SUFFIX,piletfeed-cdn.sharefile.io
 DOMAIN-SUFFIX,featureflags.sharefile.io
 DOMAIN-SUFFIX,citrix-sharefile-content.customer.pendo.io
+DOMAIN-SUFFIX,stripchat.com
+DOMAIN-SUFFIX,exxonmobil.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
