@@ -1,13 +1,10 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,raw.githubusercontent.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,stripchat.com
-DOMAIN-SUFFIX,exxonmobil.com
 DOMAIN-SUFFIX,sharefile.com
 DOMAIN-SUFFIX,exxonmobil.sharefile.com
 DOMAIN-SUFFIX,auth.sharefile.io
