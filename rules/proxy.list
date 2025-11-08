@@ -1,11 +1,13 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,raw.githubusercontent.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,stripchat.com
+DOMAIN-SUFFIX,exxonmobil.com
 DOMAIN-SUFFIX,sharefile.com
 DOMAIN-SUFFIX,exxonmobil.sharefile.com
 DOMAIN-SUFFIX,auth.sharefile.io
@@ -13,8 +15,7 @@ DOMAIN-SUFFIX,exxonmobil.sf-api.com
 DOMAIN-SUFFIX,piletfeed-cdn.sharefile.io
 DOMAIN-SUFFIX,featureflags.sharefile.io
 DOMAIN-SUFFIX,citrix-sharefile-content.customer.pendo.io
-DOMAIN-SUFFIX,stripchat.com
-DOMAIN-SUFFIX,exxonmobil.com
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
