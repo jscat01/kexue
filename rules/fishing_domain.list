@@ -7,4 +7,6 @@ DOMAIN-KEYWORD,exxonmobil
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,spsharing1.exxonmobil.com
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zoomconnector.com
 
