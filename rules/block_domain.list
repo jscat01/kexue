@@ -1,4 +1,4 @@
-# 内容：OpenAi Bard anthropic
+# 内容：禁止广告
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,adobe
@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,adobe
 # DOMAIN-KEYWORD,Claude
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,ad.doubleclick.net
 DOMAIN,practivate.adobe
 DOMAIN,practivate.adobe.ipp
 DOMAIN,practivate.adobe.newoa
