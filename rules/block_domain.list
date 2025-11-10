@@ -5,8 +5,7 @@ DOMAIN-SUFFIX,evewan.com
 DOMAIN-SUFFIX,v4.sogowan.com
 DOMAIN-SUFFIX,stgowan.com
 DOMAIN-SUFFIX,pc.stgowan.com
-DOMAIN-SUFFIX,yzzyimages.com
-DOMAIN-SUFFIX,yzzyimg.online
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,adobe
 DOMAIN-KEYWORD,sogowan
