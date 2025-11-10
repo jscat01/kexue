@@ -1,6 +1,7 @@
 # 内容：禁止广告
 DOMAIN-SUFFIX,2120xvkbimg.top
 DOMAIN-SUFFIX,sogowan.com
+DOMAIN-SUFFIX,evewan.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,adobe
 # DOMAIN-KEYWORD,anthropic
