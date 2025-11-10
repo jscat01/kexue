@@ -9,7 +9,9 @@ DOMAIN-SUFFIX,yzzyimages.com
 DOMAIN-SUFFIX,yzzyimg.online
 # 域名关键字匹配
 DOMAIN-KEYWORD,adobe
-# DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,sogowan
+DOMAIN-KEYWORD,stgowan
+DOMAIN-KEYWORD,evewan
 # DOMAIN-KEYWORD,Claude
 
 # 域名后缀匹配
