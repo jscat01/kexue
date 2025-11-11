@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,stgowan.com
 DOMAIN-SUFFIX,pc.stgowan.com
 IP-CIDR,121.12.125.44/32,no-resolve
 IP-CIDR,117.131.20.137/32,no-resolve
+IP-CIDR,117.131.20.149/32,no-resolve
+IP-CIDR,117.131.20.155/32,no-resolve
+IP-CIDR,112.25.32.136/32,no-resolve
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,adobe
