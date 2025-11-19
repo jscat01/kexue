@@ -1,7 +1,6 @@
-优化了openclase域名规则列表
-科学上网
+优化了openclash科学上网域名规则列表
 删除了重复的域名，常用的Ａpple和微软设置成当独规则
-
+可以根据自己的实际需要进行修改
 
 self_proxy: { <<: *class, url: "https://raw.githubusercontent.com/jscat01/kexue/refs/heads/main/rules/proxy_main.list"}
   private_domain: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.mrs"}
