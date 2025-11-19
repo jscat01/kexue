@@ -4,5 +4,7 @@ OpenClash　科学上网
 
 可以根据自己的实际需要进行修改
 
+ 配置文件下载链接：https://raw.githubusercontent.com/jscat01/kexue/refs/heads/main/Config/openclashconfig.yaml
+
 
   
