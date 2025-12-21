@@ -6,8 +6,8 @@ export PATH
 #	System Required: Debian/Ubuntu
 #	Description: ocserv AnyConnect
 #	Version: 1.0.5
-#	Author: Lushan
-#	Blog: https://doub.io/vpnzy-7/
+#	Author: jscat01
+#	URL: https://github.com/jscat01/
 #=================================================
 sh_ver="1.0.5"
 file="/usr/local/sbin/ocserv"
